@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Exchange Rates</string>
+    <string name="topName">Рубль</string>
+    <string name="changeValutes">Поменять валюты местами</string>
+    <string name="bottomName">Доллар США</string>
+    <string name="save">Сохранить</string>
+</resources>
